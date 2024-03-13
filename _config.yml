@@ -1,0 +1,10 @@
+title: RCL CloudTnT
+description: Digital transformation hub for individuals and small business.
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+
+url: https://rcl-cloudtnt.github.io
+
+aux_links:
+  Template Repository: https://github.com/rcl-cloudtnt/docs
