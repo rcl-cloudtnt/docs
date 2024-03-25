@@ -7,20 +7,20 @@ nav_order: 1
 
 # Introduction
 
-The RCL Cloud TnT is a hub for individuals and organizations embarking on a journey of digital transformation of a business. Subscribers will use modern cloud services such as Microsoft Azure and software development platform such as ASP.NET to build projects for a business.
+The RCL Cloud TnT is a hub for individuals and organizations embarking on a journey of digital transformation of a business. Users will use modern cloud services such as Microsoft Azure and software development platform such as ASP.NET to build projects for a business.
 
 ## Live Events
 
-There are regular live video events that subscribers can attend online. These events provides hands-on demonstration on cloud solutions and software development. Events and broadly divided into two types:
+There are regular live video events that users can attend online. These events provides hands-on demonstration on Cloud DevOps and Software Development. Events and broadly divided into two types:
 
 ### Hands-On workshops
 
 Demonstrations of practical activities. This is done on the main website.
 
-### Discussion forums
+### Discussion sessions
 
 Question and Answer sessions and general discussions. This is normally done with Microsoft Teams Meeting.
 
-## Managed Services
+## Open Badges
 
-RCL CloudTnT provides a managed services for the Microsoft Azure. Subscribers can apply for assistance on their cloud projects through a request. A code snippet will be provided to the applicant to run on the Azure account to share their subscription. Assistance will be provided to the applicant remotely in their Azure managed subscription.
+RCL CloudTnT issues [Open Badges](./open-badges/open-badges.md) to users who demonstrate competence in Cloud DevOps and Software Development. The badges are digital credentials that are hosted online and shared by the user on different websites and social platforms.
