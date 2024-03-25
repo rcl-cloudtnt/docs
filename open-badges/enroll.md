@@ -11,7 +11,7 @@ parent: Open Badges
 {: .information }
 You must have a valid [Subscription]() and a [Verified Digital ID]() to enroll for a badge. Once you have met both these requirements, you will be allowed to enroll for a badge
 
- - Register and Subscribe to CloudTnT if you have not done so already
+ - Register and Subscribe to RCL CloudTnT if you have not done so already
 
  - Obtain a Verified Digital ID if you have not done so already
 
