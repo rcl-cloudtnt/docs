@@ -3,7 +3,7 @@ title: Enrollment
 description: Enrollment for an Open Badges issued by RCL Cloud TnT
 has_children: false
 nav_order: 2
-parent: Open Badge
+parent: Open Badges
 ---
 
 # Enrolling for a Badge
