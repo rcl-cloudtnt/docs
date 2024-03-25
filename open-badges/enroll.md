@@ -9,9 +9,11 @@ parent: Open Badges
 # Enrolling for a Badge
 
 {: .information }
-You must have a valid subscription to enroll for a badge. Once you meet the requirement, you will be allowed to enroll for a badge
+You must have a valid [Subscription]() and a [Verified Digital ID]() to enroll for a badge. Once you have met both these requirements, you will be allowed to enroll for a badge
 
  - Register and Subscribe to CloudTnT if you have not done so already
+
+ - Obtain a Verified Digital ID if you have not done so already
 
  - Login and navigate to the badge details page
 
@@ -19,6 +21,6 @@ You must have a valid subscription to enroll for a badge. Once you meet the requ
 
  ![image](../images/badge/enroll.png)
 
- - Check the Portal for badges you have enrolled for
+ - In the Portal, you can manage all your badges
 
   ![image](../images/badge/enroll2.png)
