@@ -1,5 +1,5 @@
 ---
-title: Earn
+title: Earning a Badge
 description: Earn an Open Badges issued by RCL Cloud TnT
 has_children: false
 nav_order: 3
