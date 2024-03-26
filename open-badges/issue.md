@@ -59,6 +59,9 @@ This provides details of when the issued badge. It specifies the issuance and ex
 
 The user the badge was issued to. The user is uniquely identified by an email address. The email address is hashed to protect the privacy of the recipient.
 
+{: .information }
+It is important that the email you registered to use RCL Cloud TnT must be the same email you use to register for you external backpack. Your email is the linking field that connects your backpack.
+
 ### Badge
 
 This object provides details about the badge name, image, description and criterial URL. The badge object also comprise:
@@ -82,9 +85,9 @@ You can download a badge in the Portal in the ``Badge Details`` page. The downlo
 
 You can save you badge in you local computer and share with anyone.
 
-## Back Pack
+## Backpack
 
-A Back Pack is an application that meets the specification for storing Open Badges online. You can upload your badge to a backpack where you can manage all your badges issued by RCL Cloud TnT and the other badge issuers that exists in the ecosystem. 
+A Backpack is an application that meets the specification for storing Open Badges online. You can upload your badge to a backpack where you can manage all your badges issued by RCL Cloud TnT and the other badge issuers that exists in the ecosystem. 
 
 The following are some of the most popular backpacks:
 
@@ -92,7 +95,7 @@ The following are some of the most popular backpacks:
  - [Open Badge Passport](https://openbadgepassport.com)
  - [Credly](https://info.credly.com/badge-earner-support)
 
- ### Badgr
+### Badgr
 
  Badgr offers a free backpack for storing and sharing badges.
 
