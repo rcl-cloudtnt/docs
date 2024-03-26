@@ -44,7 +44,6 @@ Click on the link button to view the live stream.
 
 - In the ``Video`` page, you can view the live event and chat online
 
-
 ![image](../images/event/view2.png)
 
 
