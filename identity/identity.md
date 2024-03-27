@@ -7,11 +7,11 @@ nav_order: 3
 
 # Identity
 
-You must register and login to use many features of RCL CloudTnT. In addition, you may be required to verify your identify for certain features.
+You must register and login to use many features of RCL CloudTnT. In addition, you may be required to verify your identity for certain features.
 
 # Register
 
-- Click the ``Login`` link at the top of the page
+- Click the ``Login`` link at the top of the website
 
 - In the ``Sign in`` page , click the ``Sign up now`` link at the bottom of the page
 
@@ -19,9 +19,11 @@ You must register and login to use many features of RCL CloudTnT. In addition, y
 
 - Verify your email address and set your password
 
+- Your new account will then be created
+
 # Managing your Identity
 
-You can manage your identity with the login drop down at the top of the page
+You can manage your identity with the login drop down at the top of the website
 
 ![image](../images/identity/manage.png)
 
@@ -30,6 +32,7 @@ You can also manage your identity in the Portal in the ``Account`` section
 ![image](../images/identity/manage2.png)
 
 # Verified Identity
+Some features, eg. Open Badges, require a verified identity.
 
 We will verify your identity by using an official Photo ID issued to you. Photo IDs may include
 
@@ -47,13 +50,13 @@ We will verify your identity by using an official Photo ID issued to you. Photo 
 
 ![image](../images/identity/verify2.png)
 
-- You are required to upload a photo for your profile. The photo should be 250 x 250 px and must not be more that 250 Kb in size.
+- You are required to upload a photo for your profile. The photo should be 250 x 250 px and must not be more that 250 Kb in size
 
 ![image](../images/identity/profile.png)
 
-- You should take a photo of the Photo ID alone, clearly showing your name and date of birth
+- In addition, you should take a photo of the Photo ID alone, clearly showing your name and date of birth
 
-- You should take a selfie with you holding up the Photo ID next to your face. The face in the ID should match your face.
+- In addition, you should take a selfie with you holding up the Photo ID next to your face. The face in the ID should match your face.
 
 - Include both photos in a .docx, .pdf or image file and upload for verification
 
@@ -63,7 +66,7 @@ We will verify your identity by using an official Photo ID issued to you. Photo 
 
 - Recheck your data and image files and click the ``Submit for approval`` button
 
-- You identity should be verified with 10 days. If you do not get a reply, please contact support
+- You identity should be verified within 10 days. If you do not get a reply, please contact support
 
 - Your verified identity can be found in the ``Profile`` page
 

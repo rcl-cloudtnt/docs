@@ -7,4 +7,4 @@ nav_order: 2
 
 # Subscription
 
-In this section you will learn about RCL Cloud TnT Subscription
+In this section, you will learn about RCL CloudTnT subscription.

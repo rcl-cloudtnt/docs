@@ -12,7 +12,7 @@ Once you have satisfied the criteria for a badge, it will be issued to you by yo
 
 ## Badge File
 
-The badge is a .PNG image file with embedded metadata. The metadata will be "baked" into the badge. If you were to inspect the metadata of the badge you will notice the key word ``openbadges`` with a JSON string value. he following is a sample of the value:
+The badge is a .PNG image file with embedded metadata. The metadata will be "baked" into the badge. If you were to inspect the metadata of the badge you will notice the key word ``openbadges`` with a JSON string value. The following is a sample of the value:
 
 ```json
 {
@@ -49,18 +49,18 @@ The badge is a .PNG image file with embedded metadata. The metadata will be "bak
 }
 ```
 
-The JSON structure contains the following objects
+The JSON structure contains the following objects :
 
 ## Assertion
 
-This provides details of when the issued badge. It specifies the issuance and expiry dates as weill as the evidence URL. The assertion further comprises:
+This provides details of the issued badge. It specifies the issuance and expiry dates as weill as the evidence URL. The assertion further comprises:
 
 ### Recipient
 
 The user the badge was issued to. The user is uniquely identified by an email address. The email address is hashed to protect the privacy of the recipient.
 
 {: .information }
-It is important that the email you registered to use RCL Cloud TnT must be the same email you use to register for you external backpack. Your email is the linking field that connects your backpack.
+It is important that the email you registered to use RCL CloudTnT must be the same email you use to register for you external backpack. Your email is the linking field that connects your backpack.
 
 ### Badge
 
@@ -72,10 +72,10 @@ This object provides details of the organization that issued the badge
 
 ## Hosting the Badge
 
-The Badge is hosted online. This us specified in the ``verification`` object of the assertion. RCL Cloud TnT hosts badge assertions and it reliant links on GitHub.
+The Badge is hosted online. This is specified in the ``verification`` object of the assertion. RCL CloudTnT hosts badge assertionson on GitHub.
 
 {: .information }
-A user's badge assertion is hosted on GitHub which is a highly available online system for accessing web-hosted files. It is a stable organization which ensures the longevity of your badge on the online badging eco-system. The assertion contains no personal identifiable data and there protects your privacy.
+A user's badge assertion is hosted on GitHub which is a highly available online system for accessing web-hosted files. It is a stable organization which ensures the longevity of your hosted badge. The assertion contains no personally identifiable data and protects your privacy.
 
 ## Downloading a Badge
 
@@ -87,7 +87,7 @@ You can save you badge in you local computer and share with anyone.
 
 ## Backpack
 
-A Backpack is an application that meets the specification for storing Open Badges online. You can upload your badge to a backpack where you can manage all your badges issued by RCL Cloud TnT and the other badge issuers that exists in the ecosystem. 
+A Backpack is an application that meets the specification for storing Open Badges online. You can upload your badge to a backpack where you can manage the badges we issued, in addition to, badge issuer by other issuers that exist in the ecosystem. 
 
 The following are some of the most popular backpacks:
 
@@ -103,7 +103,7 @@ The following are some of the most popular backpacks:
 
 ![image](../images/badge/badgr.png)
 
-- You can now manage your badges in Badgr
+- You can now manage your badge in Badgr
 
 ![image](../images/badge/badgr2.png)
 
@@ -113,4 +113,4 @@ The following are some of the most popular backpacks:
 
 ### Collections
 
-One of the powerful features of badges is that they are "stackable". You can create you own collections of badges you earn based on your learning path or career objectives. You can share your entire collection online.
+One of the powerful features of badges is that they are "stackable". You can create you own collections of badges you earn based on your learning path or career objectives. You can then share your entire collection online.

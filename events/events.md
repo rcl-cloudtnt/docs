@@ -9,11 +9,11 @@ nav_order: 4
 
 Events are conducted on a scheduled basis. The events are delivered on-line through live video and chat. Some events are recorded and can be played back on-demand. Events are of two types:
 
-# Hands-On workshops
+## Hands-On Workshops
 
 Demonstrations of practical activities. This is done on the main website.
 
-## Discussion sessions
+## Discussion Sessions
 
 Question and Answer sessions and general discussions. This is normally done with Microsoft Teams Meeting.
 
@@ -22,9 +22,9 @@ Question and Answer sessions and general discussions. This is normally done with
 {: .information }
 You must have a valid [Subscription]() to register for an event. 
 
- - Register and Subscribe to RCL CloudTnT if you have not done so already
+ - [Register](../identity/identity.md) and [Subscribe](../subscription/manage.md) to RCL CloudTnT if you have not done so already
 
- - Login and navigate to the event details page
+ - Login and navigate to the `Event Details` page
 
  - Click on the ``Register Now`` link
 
@@ -42,7 +42,7 @@ Click on the link button to view the live stream.
 
 ![image](../images/event/view.png)
 
-- In the ``Video`` page, you can view the live event and chat online
+- In the ``Video`` page, you can view the live event and chat with other users and presenters
 
 ![image](../images/event/view2.png)
 
