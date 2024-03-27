@@ -78,9 +78,7 @@ Your Credit Card payment and Credit Card information is managed solely by [Strip
 
 - In the Portal, navigate to the ``Subscription Details`` page
 
-![image](../images/subscription/activate.png)
-
-- Click the ``Activate Your Subscription`` button
+![image](../images/subscription/activate3.png)
 
 - Click on the ``Manage your subscription`` button
 
@@ -92,9 +90,9 @@ Your Credit Card payment and Credit Card information is managed solely by [Strip
 
 - The subscription will be cancelled at the end of the subscription billing cycle 
 
-![image](../images/subscription/cancel2.png)
-
 - Your subscription will be deactivated when in becomes cancelled after the billing cycle ends
+
+![image](../images/subscription/cancel2.png)
 
 {: .warning }
 A cancelled subscription cannot be undone. All you data in the application will be deleted. Please download any Open Badges you have before you cancel your subscription.
