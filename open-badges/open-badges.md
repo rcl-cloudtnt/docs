@@ -2,7 +2,7 @@
 title: Open Badges
 description: Open Badges issued by RCL Cloud TnT
 has_children: true
-nav_order: 4
+nav_order: 5
 ---
 
 # What are Open Badges?
