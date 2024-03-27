@@ -1,5 +1,5 @@
 ---
-title: SUbscription
+title: Subscription
 description: RCL Cloud TnT Subscription
 has_children: True
 nav_order: 2
