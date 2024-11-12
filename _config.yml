@@ -4,7 +4,7 @@ color_scheme: "dark"
 search_enabled: true
 aux_links:
   "RCL CloudTnT Docs on GitHub":
-    - "https://github.com/cloudtnt-rcl/docs"
+    - "https://github.com/rcl-cloudtnt/docs"
 callouts:
   information:
     title: Information
