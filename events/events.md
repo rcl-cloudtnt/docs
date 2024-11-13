@@ -10,6 +10,6 @@ nav_order: 3
 
 In this section, you will learn how to create and host live events on the RCL CLoud TnT platform.
 
-## CReating a Live Event
+## Creating a Live Event
 
 ## Hosting a Live Event
