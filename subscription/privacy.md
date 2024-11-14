@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: The Privacy Policy for CloudTnT Apps
+description: The Privacy Policy for RCL CloudTnT
 parent: Subscription
 nav_order: 5
 ---
@@ -10,9 +10,7 @@ nav_order: 5
 
 ## Cookies
 
-When you visit our various CloudTnT Apps, we use cookies to collect standard internet login information and details about the behavior of visitors to our sites. The Apps include the following:
-
-- RCL CloudTnT Verifiable Credential Issuer Portal
+When you visit RCL CLoudTnT, we use cookies to collect standard internet login information and details about the behavior of visitors to our sites.
 
 We do this to find out things such as the number of visitors to the various parts of our site and to provide you
 with a better experience.
@@ -26,6 +24,6 @@ Cookies are small text files that are placed on your device to help our website 
 
 We do not share your personal information with third parties nor do we store any information about your visit to our sites. 
 
-We collect the following personal information : **email**, when you subscribe for the Apps. This information is collected with your consent and it is used to contact you on issues related to your account. 
+We collect the following personal information : **email**, when you subscribe for the RCL CloudTnT application. This information is collected with your consent and it is used to contact you on issues related to your account. 
 
 We respect your privacy.

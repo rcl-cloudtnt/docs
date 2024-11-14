@@ -1,6 +1,6 @@
 ---
 title: Subscribe using Stripe
-description: Use Stripe to subscribe to CloudTnT Verifiable Credentials Issuer Portal
+description: Use Stripe to subscribe to RCL CloudTnT
 parent: Subscription
 nav_order: 1
 ---
@@ -13,7 +13,7 @@ nav_order: 1
 {: .information }
 A Credit Card is not required to start a trial account
 
-- In the VC Issuer Platform website's front page, click on the ``Try for Free`` button
+- In the RCL CloudTnT website's front page, click on the ``Try for Free`` button
 
 - Login with a Microsoft account or create a new Microsoft account
 
@@ -26,7 +26,7 @@ A Credit Card is not required to start a trial account
 ## Activate a Trial Subscription
 
 {: .information }
-Payment and Credit Cards are handled solely by Stripe and no credit card numbers are collected, viewed or stored by the  VC Issuer Platform website. Your Credit Card information is secured by [Stripe](https://stripe.com/).
+Payment and Credit Cards are handled solely by Stripe and no credit card numbers are collected, viewed or stored by the  RCL CloudTnT platform. Your Credit Card information is secured by [Stripe](https://stripe.com/).
 
 You must activate a subscription before the trial period ends to be able to continue using the application.
 
